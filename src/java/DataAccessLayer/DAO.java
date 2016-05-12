@@ -24,7 +24,7 @@ public class DAO {
     }
 
     public List<Request> getRequests() {
-
+        //Что за переменные 
         Statement st = null;
         ResultSet rs = null;
 
